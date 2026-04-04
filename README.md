@@ -21,6 +21,8 @@
 راقب ركعات صلاة القضاء لكل صلاة.
 
 ### 🕌 يوم الجمعة
+<img width="602" height="598" alt="2026-04-03 15_18_54-Islamic spiritual dashboard - v0 by Vercel - Brave" src="https://github.com/user-attachments/assets/6d74173e-ce6e-44d1-ae40-620d961ab568" />
+
 قائمة مهام ليوم الجمعة المبارك:
 - قراءة سورة الكهف
 - الإكثار من الصلاة على النبي ﷺ
