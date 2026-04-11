@@ -1,4 +1,5 @@
 # هل صليت اليوم - Did you Pray Today?
+![Version](https://img.shields.io/badge/version-0.1.0-blue) ![Next.js](https://img.shields.io/badge/Next.js-16.1.6-black) ![React](https://img.shields.io/badge/React-19.2.4-blue) ![Recharts](https://img.shields.io/badge/Recharts-2.15.0-red) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.2.0-38B2AC)
 
 <div dir="rtl">
 
@@ -44,6 +45,29 @@
 - **Radix UI** - مكونات UI سهلة الوصول
 - **next-themes** - إدارة السمات
 - **Vercel Analytics** - تحليلات الأداء
+
+## الحزم المستخدمة
+
+| الحزمة | الإصدار | الوصف |
+|--------|----------|-------|
+| Next.js | 16.1.6 | إطار عمل React الحديث للتطبيقات الويب |
+| React | 19.2.4 | مكتبة واجهة المستخدم |
+| React DOM | 19.2.4 | ربط React بالمتصفح |
+| TypeScript | 5.7.3 | لغة البرمجة المكتوبة |
+| Tailwind CSS | 4.2.0 | إطار عمل CSS |
+| Radix UI Components | متعددة | مكونات UI سهلة الوصول |
+| next-themes | 0.4.6 | إدارة السمات المظلمة والفاتحة |
+| Vercel Analytics | 1.6.1 | تحليلات الأداء |
+| Recharts | 2.15.0 | مكتبة رسوم بيانية |
+| date-fns | 4.1.0 | مكتبة تاريخ ووقت |
+| react-hook-form | 7.54.1 | إدارة النماذج |
+| zod | 3.24.1 | التحقق من البيانات |
+| lucide-react | 0.564.0 | مجموعة أيقونات |
+| sonner | 1.7.1 | إشعارات |
+| clsx | 2.1.1 | مساعد CSS classes |
+| class-variance-authority | 0.7.1 | إدارة variants CSS |
+| @hookform/resolvers | 3.9.1 | محللات النماذج |
+| autoprefixer | 10.4.20 | إضافة prefixes CSS تلقائياً |
 
 ## المتطلبات
 
